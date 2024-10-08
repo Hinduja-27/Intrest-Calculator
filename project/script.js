@@ -1,4 +1,5 @@
 // compound inyrest calculate
+//we can calculte intrest
 
 function calculate(){
     const totalAmount = document.getElementById("total-amount");
